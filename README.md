@@ -7,7 +7,9 @@
 ### because miracles happen everyday.
 
 <p align="center">
-  <img src="https://github.com/KonikaOfficial/KonikaOfficial/raw/main/assets/github.gif" alt="Hi, I'm Neeraj 👋 I'm a 🚀 Ui,web-dev,app develper 🚀 I ❤️ Happy designing ❤️">
+  <br>
+  <H1>Hi, I'm Neeraj 👋 I'm a 🚀 Ui,web-dev,app develper 🚀 I ❤️ Happy designing ❤️"</H1>
+  </br>
 </p>
 
 <br>
@@ -69,23 +71,6 @@ const thai = {
   <a href=""><img alt="Facebook" height="32" width="32" src="images/facebook.svg"></a>
   <a href=""><img alt="Imgur" height="32" width="32" src="images/imgur.svg"></a>
   <a href=""><img alt="MyAnimeList" height="32" width="32" src="images/myanimelist.svg"></a>
-  <a href=""><img alt="Reddit" height="32" width="32" src="images/reddit.svg"></a>
-  <a href=""><img alt="Spotify" height="32" width="32" src="images/spotify.svg"></a>
-  <a href=""><img alt="Twitch" height="32" width="32" src="images/twitch.svg"></a>
-  <a href=""><img alt="Twitter" height="32" width="32" src="images/twitter.svg"></a>
-  <a href=""><img alt="YouTube" height="32" width="32" src="images/youtube.svg"></a>
-</p>
-
-
-<p align="left">
-  <a href="#"><img alt="Arknights - Phos#3548" title="Arknights - Phos#3548" height="32" width="32" src="images/arknights.svg"></a>
-  <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" src="images/destiny.svg"></a>
-  <a href="#"><img alt="Epic Games - PeterTheHan" title="Epic Games - PeterTheHan" height="32" width="32" src="images/epicgames.svg"></a>
-  <a href="#"><img alt="PlayStation - PeterTheHan" title="PlayStation - PeterTheHan" height="32" width="32" src="images/playstation.svg"></a>
-  <a href="https://stadia.com/profile/1536559313706186034"><img alt="Stadia - Phos" height="32" width="32" src="images/stadia.svg"></a>
-  <a href="https://steamcommunity.com/id/peterthehan"><img alt="Steam" height="32" width="32" src="images/steam.svg"></a>
-  <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="images/warframe.svg"></a>
-  <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="images/warframe.svg"></a>
 </p>
 
 
