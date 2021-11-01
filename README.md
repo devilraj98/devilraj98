@@ -66,12 +66,7 @@ const thai = {
   <a href="https://linkedin.com/in/peter-han"><img alt="LinkedIn" height="32" width="32" src="images/linkedin.svg"></a>
 </p>
 
-<p align="left">
-  <a href=""><img alt="Discord - Miku#0039" title="Discord - Miku#0039" height="32" width="32" src="images/discord.svg"></a>
-  <a href=""><img alt="Facebook" height="32" width="32" src="images/facebook.svg"></a>
-  <a href=""><img alt="Imgur" height="32" width="32" src="images/imgur.svg"></a>
-  <a href=""><img alt="MyAnimeList" height="32" width="32" src="images/myanimelist.svg"></a>
-</p>
+
 
 
 
