@@ -1,3 +1,5 @@
+<img  src="https://github.com/devilraj98/devilraj98/blob/main/javascript.gif" />
+
 # Neeraj Kumar Resume
 ## Hey there, I am Neeraj and this is my resume. you are all welcome for visiting my GitHub Repository. 
 
@@ -31,11 +33,40 @@
 <!--
 **devilraj98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-KonikaOfficial
+neeraj raj
 -->
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+i just want to explore the real knowledge from it industry to beacame a successful programmer.
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&show_icons=true&theme=radical)
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 33 mins  ████████████████████▓░░░░   73.23 % 
+HTML         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+<!--END_SECTION:waka-->
+
+#### My Stats 📈📊
+
+![neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+</details>
+
+
+
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
