@@ -35,6 +35,9 @@
 
 neeraj raj
 -->
+#### My Stats 📈📊
+
+![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&show_icons=true&theme=radical)
 <details>
 <summary>
   More stuff about me
@@ -44,9 +47,7 @@ neeraj raj
 
 i just want to explore the real knowledge from it industry to beacame a successful programmer.
 
-#### My Stats 📈📊
 
-![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&show_icons=true&theme=radical)
 #### Coding Stats
 
 <!--START_SECTION:waka-->
