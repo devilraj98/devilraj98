@@ -44,7 +44,7 @@ neeraj raj
 
 i just want to explore the real knowledge from it industry to beacame a successful programmer.
 
-## 𝗦𝘁𝗮𝘁𝘀
+#### My Stats 📈📊
 
 ![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&show_icons=true&theme=radical)
 #### Coding Stats
@@ -61,11 +61,8 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### My Stats 📈📊
 
-![neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
 
 
 ## Connect with me:
