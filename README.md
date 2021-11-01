@@ -37,6 +37,16 @@ KonikaOfficial
 
 ![Neeraj's github stats](https://github-readme-stats.vercel.app/api?username=devilraj98&show_icons=true&theme=radical)
 
+## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<!-- This section you create this variables that are used above -->
+[website]: https://google.com
+[instagram]: https://www.instagram.com/neeraj__yadav______/
+[linkedin]: https://www.linkedin.com/in/neerajraj98/
+
 
 <h2> Hi, I'm Neeraj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
