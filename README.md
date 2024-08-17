@@ -5,12 +5,12 @@
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") Test static website for hosting in github.
 
-### Never stop believing in hope,
-### because miracles happen everyday.
+### Never stop believing in Ourself
+### Keep away from Noise.
 
 <p align="center">
   <br>
-  <H1>Hi, I'm Neeraj 👋 I'm a 🚀 Ui,web-dev,app develper 🚀 I ❤️ Happy designing ❤️"</H1>
+  <H1>Hi, I'm Neeraj 👋 I'm a 🚀 DevOps engineer 🚀 I ❤️ Happy designing ❤️"</H1>
   </br>
 </p>
 
