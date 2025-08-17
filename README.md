@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Devil Raj
+# 👋 Hi there, I'm Neeraj Kumar
 
 ## 🚀 DevOps Engineer & Full Stack Developer
 
@@ -65,13 +65,13 @@ DevOps Engineer with 3+ years of experience designing, implementing, and maintai
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devilraj98)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devilraj98)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devilraj98)
 
 ### 📫 How to reach me
 
 - 📧 Email: neerajraj985275@gmail.com
 - 💼 LinkedIn: [Neeraj kumar](https://www.linkedin.com/in/neerajraj98/)
-- 🐦 Twitter: [@devilraj98](https://twitter.com/devilraj98)
+- 📸 Instagram: [Neeraj Yadav](https://instagram.com/neeraj__yadav______,)
 
 ### 🎯 What I'm currently learning
 
