@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps Engineer & Full Stack Developer
 
-I'm passionate about building scalable applications and automating infrastructure. I love working with cloud technologies, containers, and modern development practices.
+DevOps Engineer with 3+ years of experience designing, implementing, and maintaining automated deployment pipelines and scalable cloud infrastructures. Skilled in CI/CD, cloud services AWS, containerization, configuration management, and monitoring. Proactive team player with strong scripting abilities and a passion for collaboration between development and operations teams..
 
 ### 🛠️ Tech Stack
 
@@ -16,7 +16,6 @@ I'm passionate about building scalable applications and automating infrastructur
 **Programming Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Frontend:**
@@ -50,7 +49,7 @@ I'm passionate about building scalable applications and automating infrastructur
 - 🔧 **Infrastructure as Code** - Building scalable cloud infrastructure with Terraform
 - 🐳 **Container Orchestration** - Managing microservices with Kubernetes
 - 🚀 **CI/CD Pipelines** - Automating deployment processes
-- 🌐 **Full Stack Applications** - Building modern web applications
+- 🌐 **Full Stack Applications** - Building modern web applications using AI tools
 
 ### 🤝 Let's Connect
 
@@ -60,8 +59,8 @@ I'm passionate about building scalable applications and automating infrastructur
 
 ### 📫 How to reach me
 
-- 📧 Email: devilraj98@gmail.com
-- 💼 LinkedIn: [devilraj98](https://linkedin.com/in/devilraj98)
+- 📧 Email: neerajraj985275@gmail.com
+- 💼 LinkedIn: [Neeraj kumar](https://www.linkedin.com/in/neerajraj98/)
 - 🐦 Twitter: [@devilraj98](https://twitter.com/devilraj98)
 
 ### 🎯 What I'm currently learning
