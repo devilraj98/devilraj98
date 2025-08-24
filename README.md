@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Neeraj Kumar
 
-## 🚀 DevOps Engineer & Full Stack Developer
+## 🚀 AWS DevOps Engineer 
 
 DevOps Engineer with 3+ years of experience designing, implementing, and maintaining automated deployment pipelines and scalable cloud infrastructures. Skilled in CI/CD, cloud services AWS, containerization, configuration management, and monitoring. Proactive team player with strong scripting abilities and a passion for collaboration between development and operations teams..
 
