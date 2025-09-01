@@ -84,7 +84,7 @@ DevOps Engineer with 3+ years of experience designing, implementing, and maintai
 
 - 🎮 I love gaming and often draw inspiration from game design for UX
 - ☕ Coffee enthusiast - Fuel for late-night coding sessions
-- 📚 Always reading tech blogs and documentation
+- 📚 Always reading tech blogs and documentation to keep updated
 - 🎵 Music helps me focus while coding
 
 ---
@@ -93,4 +93,5 @@ DevOps Engineer with 3+ years of experience designing, implementing, and maintai
   <img src="https://komarev.com/ghpvc/?username=devilraj98&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
+Thank you everyone
 *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on interesting projects.* 🚀
