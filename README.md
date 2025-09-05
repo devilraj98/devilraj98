@@ -53,9 +53,9 @@ DevOps Engineer with 3+ years of experience designing, implementing, and maintai
 ### 📈 Current Projects
 
 - 🔧 **Infrastructure as Code** - Building scalable cloud infrastructure with Terraform
-- 🐳 **Container Orchestration** - Managing microservices with Kubernetes
+- 🐳 **Container Orchestration** - Managing microservices with Kubernetes 
 - 🚀 **CI/CD Pipelines** - Automating deployment processes
-- 🌐 **Full Stack Applications** - Building modern web applications using AI tools
+- 🌐 **Full Stack Applications** - Building modern web applications using AI tools like Amazon Q CLI, Kilo Code and Github Co-Piolot
 
 ### 🌐 Portfolio & Projects
 
