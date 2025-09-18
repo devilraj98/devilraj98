@@ -78,7 +78,7 @@ DevOps Engineer with 4 years of experience designing, implementing, and maintain
 - 🔥 **Advanced Kubernetes** - Service mesh, operators, and advanced patterns
 - ☁️ **Multi-cloud strategies** - AWS, Azure, and GCP integration
 - 🧠 **Machine Learning** - MLOps and AI infrastructure
-- 🔐 **Security** - DevSecOps and security automation
+- 🔐 **Security** - DevSecOps, AIOps and security automation 
 
 ### 💡 Fun Facts
 
