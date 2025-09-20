@@ -82,7 +82,7 @@ DevOps Engineer with 4 years of experience designing, implementing, and maintain
 
 ### 💡 Fun Facts
 
-- 🎮 I love gaming and often draw inspiration from game design for UX
+- 🎮 I love gaming and will start my Gaming channel with friends in future
 - ☕ Coffee enthusiast - Fuel for late-night coding sessions
 - 📚 Always reading tech blogs and documentation to keep updated
 - 🎵 Music helps me focus while coding
