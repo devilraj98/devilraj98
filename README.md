@@ -7,7 +7,7 @@ automating deployments, and enabling high-availability systems on AWS. Strong ex
 Infrastructure as Code, observability, and production support. Proven ability to reduce deployment time, optimize system
 performance, and enhance reliability using modern DevOps tooling. Focused on automation, operational excellence, and
 continuous improvement. Also experienced in mentoring and training students as an AWS & DevOps trainer, successfully
-completing four batches..
+completed four batches successfully. 5th is going on....
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +26,6 @@ completing four batches..
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Databases:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,7 +35,6 @@ completing four batches..
 **AI & Machine Learning:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 📊 GitHub Stats
