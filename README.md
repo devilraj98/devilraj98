@@ -7,7 +7,7 @@ automating deployments, and enabling high-availability systems on AWS. Strong ex
 Infrastructure as Code, observability, and production support. Proven ability to reduce deployment time, optimize system
 performance, and enhance reliability using modern DevOps tooling. Focused on automation, operational excellence, and
 continuous improvement. Also experienced in mentoring and training students as an AWS & DevOps trainer, successfully
-completed four batches successfully. 5th is going on....
+completed four batches, Fifth is going on...
 
 ### 🛠️ Tech Stack
 
