@@ -58,7 +58,7 @@ completed four batches, Fifth is going on...
 - 🔧 **Infrastructure as Code** - Building scalable cloud infrastructure with Terraform
 - 🐳 **Container Orchestration** - Managing microservices with Kubernetes on EKS 
 - 🚀 **CI/CD Pipelines** - Automating deployment processes
-- 🌐 **Full Stack Applications** - Building modern web applications using AI tools like Amazon Q CLI, Kilo Code and Github Co-Piolot
+- 🌐 **Full Stack Applications** - Building modern web applications using AI tools like Amazon Q CLI, Kilo Code and Github Co-Piolot,Cursor, Claude
 
 ### 🌐 Portfolio & Projects
 
