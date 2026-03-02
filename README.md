@@ -2,7 +2,7 @@
 
 ## 🚀 AWS DevOps Engineer 
 
-Cloud & DevOps Engineer with 4 years of experience designing scalable cloud infrastructure, building CI/CD pipelines,
+Cloud & DevOps Engineer with 4+ years of experience designing scalable cloud infrastructure, building CI/CD pipelines,
 automating deployments, and enabling high-availability systems on AWS. Strong expertise in containerization,
 Infrastructure as Code, observability, and production support. Proven ability to reduce deployment time, optimize system
 performance, and enhance reliability using modern DevOps tooling. Focused on automation, operational excellence, and
